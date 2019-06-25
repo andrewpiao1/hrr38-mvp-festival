@@ -53,8 +53,8 @@ class Header extends Component {
       >
         <ToolBar>
           <div className="header_logo">
-            <div className="font_righteous header_logo_venue">Electric Zoo</div>
-            <div className="header_logo_title">Music Festival</div>
+            <div className="font_righteous header_logo_venue">Randall's Island Park</div>
+            <div className="header_logo_title">New York City</div>
           </div>
 
           <IconButton
